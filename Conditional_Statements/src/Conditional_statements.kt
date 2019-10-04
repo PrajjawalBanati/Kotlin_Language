@@ -1,5 +1,5 @@
 import java.util.*
-
+// USING IF STATEMENT
 fun max(a:Int,b:Int):Int{
     if(a>b)
         return a
@@ -7,6 +7,16 @@ fun max(a:Int,b:Int):Int{
         return b
     else
         return 0
+}
+// USING WHEN STATEMENT
+fun show(a: Int){
+    when(a%2)
+    {
+        0->
+        println("String Length is Even")
+        1->
+        println("String Length is Odd")
+    }
 }
 fun main() {
     val a: Int
@@ -18,6 +28,7 @@ fun main() {
     val s2: String= sc.nextLine()
     println(s1)
     println(s2)
+    show(s2.length)
     println("Enter two numbers")
     a=sc.nextInt()
     b=sc.nextInt()
