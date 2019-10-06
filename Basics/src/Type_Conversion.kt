@@ -18,6 +18,7 @@ fun main(){
     val m: Long=400_000_000_000
     val n: Long=0xFF_EC_DE_5E
     val o=0b11010010_01101001_10010100_10010010
-    print("$a\n$b\n$c\n$d\n$e\n$f\n$g\n$h\n$i\n$j\n$k\n$l\n$m\n$n\n$o") 
+    val p=0b01010010_01101001_10010100_10010010
+    print("$a\n$b\n$c\n$d\n$e\n$f\n$g\n$h\n$i\n$j\n$k\n$l\n$m\n$n\n$o\n$p")
 
 }
