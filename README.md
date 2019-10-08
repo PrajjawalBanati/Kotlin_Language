@@ -10,3 +10,5 @@ A complete reference to Kotlin language and it's use in different domains as in 
 2. Clone this repository.
 3. After it is in the local machine create your branch and start commmitting
 4. Generate Pull requests to contribute your code
+
+### Will be adding more stuffs
