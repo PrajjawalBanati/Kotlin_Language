@@ -30,5 +30,6 @@ fun ExplicitLabel()
             return@forEach
         println(it)
     }
-    println("Done woth the Explicit Label")
+    println("Done with the Explicit Label")
 }
+
