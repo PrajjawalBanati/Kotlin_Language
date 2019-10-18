@@ -11,6 +11,7 @@ A complete reference to Kotlin language and it's use in different domains as in 
 9. [Maps](Maps/Maps.kt)
 10. [Classes and Objects](https://github.com/PrajjawalBanati/Kotlin_Language/blob/master/Classes_and_Objects/src/Person.kt)
 11. [Primary and Secondary Constructors](https://github.com/PrajjawalBanati/Kotlin_Language/blob/master/Constructors/src/Constructors.kt)
+12. [OOPs_Concepts in Kotlin](https://github.com/PrajjawalBanati/Kotlin_Language/tree/master/OOP_Concepts)
 ## Want to Contribute
 1. Fork this repository to your account.
 2. Clone this repository.
